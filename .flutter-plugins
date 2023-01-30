@@ -1,0 +1,25 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/mak/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-3.5.1/
+cloud_firestore_web=/Users/mak/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-2.8.10/
+contacts_service=/Users/mak/.pub-cache/hosted/pub.dartlang.org/contacts_service-0.6.3/
+firebase_auth=/Users/mak/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.11.2/
+firebase_auth_web=/Users/mak/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-4.6.1/
+firebase_core=/Users/mak/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.24.0/
+firebase_core_web=/Users/mak/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.7.3/
+firebase_storage=/Users/mak/.pub-cache/hosted/pub.dartlang.org/firebase_storage-10.3.11/
+firebase_storage_web=/Users/mak/.pub-cache/hosted/pub.dartlang.org/firebase_storage_web-3.3.9/
+flutter_auth_ui=/Users/mak/.pub-cache/hosted/pub.dartlang.org/flutter_auth_ui-3.0.0/
+flutter_auth_ui_web=/Users/mak/.pub-cache/hosted/pub.dartlang.org/flutter_auth_ui_web-2.0.0/
+flutter_plugin_android_lifecycle=/Users/mak/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7/
+open_file=/Users/mak/.pub-cache/hosted/pub.dartlang.org/open_file-3.2.1/
+permission_handler=/Users/mak/.pub-cache/hosted/pub.dartlang.org/permission_handler-9.2.0/
+permission_handler_android=/Users/mak/.pub-cache/hosted/pub.dartlang.org/permission_handler_android-9.0.2+1/
+permission_handler_apple=/Users/mak/.pub-cache/hosted/pub.dartlang.org/permission_handler_apple-9.0.7/
+permission_handler_windows=/Users/mak/.pub-cache/hosted/pub.dartlang.org/permission_handler_windows-0.1.2/
+url_launcher=/Users/mak/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.1.8/
+url_launcher_android=/Users/mak/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.23/
+url_launcher_ios=/Users/mak/.pub-cache/hosted/pub.dartlang.org/url_launcher_ios-6.0.18/
+url_launcher_linux=/Users/mak/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-3.0.2/
+url_launcher_macos=/Users/mak/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-3.0.2/
+url_launcher_web=/Users/mak/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-2.0.14/
+url_launcher_windows=/Users/mak/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-3.0.3/
